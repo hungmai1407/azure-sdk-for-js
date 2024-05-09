@@ -112,8 +112,9 @@
     "rimraf": "^5.0.5",
     "source-map-support": "^0.5.9",
     "uuid": "^9.0.0",
-    "typescript": "~5.4.5",
-    "ts-node": "^10.0.0"
+    "typescript": "~5.3.3",
+    "ts-node": "^10.0.0",
+    "esm": "^3.2.18"
   },
   "homepage": "https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/loadtesting/load-testing-rest/README.md",
   "//metadata": {

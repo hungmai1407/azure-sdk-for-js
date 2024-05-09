@@ -67,8 +67,9 @@
     "@types/eslint": "~8.44.0",
     "@types/estree": "~1.0.0",
     "eslint-config-prettier": "^9.0.0",
-    "glob": "^10.3.10",
-    "typescript": "~5.4.5",
+    "glob": "^9.0.0",
+    "json-schema": "^0.4.0",
+    "typescript": "~5.3.3",
     "tslib": "^2.6.2"
   },
   "devDependencies": {
@@ -84,6 +85,7 @@
     "prettier": "^3.2.5",
     "rimraf": "^5.0.5",
     "source-map-support": "^0.5.9",
+    "typescript": "~5.3.3",
     "vitest": "^1.4.0"
   }
 }
